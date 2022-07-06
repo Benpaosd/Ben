@@ -1,0 +1,34 @@
+<style>
+/*--预设--*/ 
+body { padding:0px;margin: 0px; } 
+#lyrow, #lyrow input, #lyrow textarea { font-size:12px;font-family: 'Microsoft YaHei', '微软雅黑', MicrosoftJhengHei, '华文细黑', STHeiti, MingLiu; } 
+#lyrow { height:100vh;width: 100vw; } 
+#lyrow div { min-height: 18px;  } 
+#lyrow input, #lyrow textarea { border:rgb(235, 235, 235) 1px solid;border-radius: 3px;padding: 5px 8px;outline: 0; } 
+#lyrow input:hover, #lyrow textarea:hover { border: 1px solid #6bc1f2; } 
+/*--编辑--*/ 
+#lyrow .xian { padding:153px 320px 177px 320px;position:fixed ;overflow-x:auto;overflow-y:auto; } 
+#lyrow .q { position:static;font-weight:bold;text-align:left;color:rgba(255, 0, 0, 1); } 
+#lyrow .w { color:rgba(0, 94, 255, 1);font-weight:bolder;background-image:url(http://www.58html.com/folder/imgcss/202206/5737b31f29e5c4e5de782197d8384f2b.png);background-size:0 auto;position:fixed ;padding:0 0 0 131px; } 
+#lyrow .r { font-weight:bolder;position:fixed ;color:rgba(255, 0, 0, 1);padding:0 0 0 47px; } 
+#lyrow .y { position:fixed ;left:301px;color:rgba(0, 166, 255, 1); } 
+#lyrow .g { position:fixed ;left:32%;font-weight:400;color:rgba(71, 86, 255, 1); } 
+#lyrow .h { position:fixed ;left:467px;color:rgba(97, 173, 255, 1); } 
+#lyrow .j { position:absolute;left:553px;color:rgba(88, 59, 255, 1); } 
+#lyrow .k { position:fixed ;left:231px; } 
+
+</style>
+<!--下载font-awesome.css图标包-->
+<!--https://www.58html.com/html/template/font-awesome.zip-->
+<link rel="stylesheet" href="https://www.58html.com/gui/css/font-awesome/css/font-awesome.css">
+<div id="lyrow"> 
+    <a class="w" href="https://cubexmc.net/" target="_blank">服务器官网</a>
+    <span class="r">Cube X</span>
+    <h1 class="g">Benpaosd</h1>
+    <h1 class="h">副会长：</h1>
+    <h1 class="j">XianYu</h1>
+    <a class="k"> </a>
+    <h1 class="y">会长:</h1>
+    <img src="http://www.58html.com/folder/imgs/202206/c82e8c97f85165b69bf593b3bf5f98d5.jpg" class="xian">
+    <a > </a>
+</div>
